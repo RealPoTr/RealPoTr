@@ -8,3 +8,8 @@
 ```
 
 ## Learns 💻
+
+```yaml
+- Java & JavaScript
+```
+

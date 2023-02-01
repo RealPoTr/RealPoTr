@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to my GitHub</a> 👋</h1>
 
-## My Addictions ☕
+## My projets ☕
 
 ```yaml
-- Code conventions
-- Open Source
-- Optimizations
+- DragonLifeZ
+- ViakyMC
 ```

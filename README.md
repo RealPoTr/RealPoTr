@@ -11,6 +11,6 @@
 
 ```yaml
 - Java
-- JS
+- JavaScript
 ```
 

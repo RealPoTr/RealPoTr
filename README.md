@@ -18,7 +18,7 @@
 ## Contact 📫
 
 ```yaml
-- contactpotr@viaky.fr
+- Mail Pro : contactpotr@viaky.fr
 - Discord : RealPoTr#7787
 ```
 

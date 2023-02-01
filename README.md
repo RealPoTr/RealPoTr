@@ -15,3 +15,10 @@
 - JavaScript
 ```
 
+## Contact 💻
+
+```yaml
+- Java
+- JavaScript
+```
+

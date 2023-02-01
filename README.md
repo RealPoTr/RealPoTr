@@ -10,6 +10,7 @@
 ## Learns 💻
 
 ```yaml
-- Java & JavaScript
+- Java
+- JS
 ```
 

@@ -7,4 +7,4 @@
 - ViakyMC
 ```
 
-## Learnings 💻
+## Learns 💻

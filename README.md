@@ -15,10 +15,10 @@
 - JavaScript
 ```
 
-## Contact 💻
+## Contact 📫
 
 ```yaml
-- Java
-- JavaScript
+- contactpotr@viaky.fr
+- Discord : RealPoTr#7787
 ```
 
